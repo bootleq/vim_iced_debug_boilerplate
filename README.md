@@ -29,7 +29,8 @@ Unlike the instruction, we will use `test_config.vim` in this directory.
 
 ```shell
   cd clj/
-  iced repl
+  /tmp/vim-iced-test/pack/iced/start/vim-iced/bin/iced repl
+
 ```
 
 - Start vim in project dir
