@@ -6,7 +6,7 @@ Clone this project
 
 ```shell
   mkdir ~/tmp
-  git clone ~/tmp/iced_test_356
+  git clone git@github.com:bootleq/vim_iced_debug_boilerplate.git ~/tmp/iced_test_356
 ```
 
 Ref [minimal_configuration][], install vim stuff to `/tmp`.
