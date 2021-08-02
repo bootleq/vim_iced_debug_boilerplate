@@ -1,4 +1,4 @@
-# Study of vim-iced #356
+# Study of vim-iced #356 (Resolved)
 
 ## Setup
 
@@ -57,6 +57,11 @@ Check result:
 ## Other Info
 
 - If start vim in `clj` directory, `IcedTestNs` works, while `IcedTestUnderCursor` still doesn't.
+
+
+## Solution
+
+See original issue, this is confirmed a clojure project setup problem.
 
 
 [minimal_configuration]: https://liquidz.github.io/vim-iced/#minimal_configuration
